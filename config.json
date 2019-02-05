@@ -1,0 +1,5 @@
+{
+    "baseURI": "https://api.telegram.org/bot",
+    "botToken": "<your_bot_token>",
+    "chatID": "<your_chat_id_with_your_bot>"
+}
